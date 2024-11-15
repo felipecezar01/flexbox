@@ -12,3 +12,15 @@ Este repositório contém um projeto focado no **treinamento de disposição de 
 - Praticar e consolidar os conceitos de **Flexbox**.
 - Desenvolver layouts responsivos e bem estruturados.
 - Aperfeiçoar habilidades de design e organização de elementos em páginas web.
+
+---
+
+## Pré-visualização
+
+<div align="center">
+  <img src="pre-flex.png" alt="Pré-visualização do Projeto">
+</div>
+
+---
+
+📚 *Projeto desenvolvido como parte do aprendizado no curso da Alura.*
